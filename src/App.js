@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h>This is the react static website</h>
       </header>
     </div>
   );
